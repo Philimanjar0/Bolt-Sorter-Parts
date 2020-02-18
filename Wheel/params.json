@@ -1,0 +1,13 @@
+{
+  "outer dimensions": {
+    "Max Z": 50.0,
+    "Max X": 78.23040304981045,
+    "Max Y": 78.24677087196825
+  },
+  "Gear Attributes": {
+    "Center Distance": 98.35775483079132,
+    "Drive Gear Teeth": 24,
+    "Driven Gear Teeth": 82,
+    "Pitch": 6
+  }
+}
